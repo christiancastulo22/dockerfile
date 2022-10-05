@@ -1,4 +1,4 @@
-#BUILD AGENT PER STAGES
+// BUILD AGENT PER STAGES
 
 pipeline {
   agent none
