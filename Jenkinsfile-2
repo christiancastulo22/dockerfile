@@ -1,3 +1,5 @@
+#BUILD AGENT PER STAGES
+
 pipeline {
   agent none
   stages {
