@@ -1,4 +1,4 @@
-#BUILD AGENT GLOBALLY
+// BUILD AGENT GLOBALLY
 
 pipeline {
   agent {
