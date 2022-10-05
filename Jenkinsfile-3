@@ -1,4 +1,4 @@
-#BUILD AGENT HOOK UP WITH DOCKERFILE
+// BUILD AGENT HOOK UP WITH DOCKERFILE
 
 pipeline {
   agent { dockerfile true }
